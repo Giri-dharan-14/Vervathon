@@ -1,4 +1,8 @@
-## Gemini Chatbot with Python Tutorial
+### Team Name - Bottle Cap
+### Problem Statement - The challenge is to design an innovative solution that integrates AI technologies to improve learning outcomes and student engagement. Participants should aim to create a system that helps students learn more effectively, boosts participation in educational activities, or assists teachers in delivering personalized content.
+### Team Leader Email - giridharan1ads@gmail.com
+
+## Education Chatbot 
 
 This repository contains the code for a chatbot built using the Gemini API and Python. 
 
@@ -54,5 +58,9 @@ This will start the chatbot. First you have to insert the PDF you want to intera
  - Starts a loop that continuously prompts the user for input and sends it to the model.
  - Receives the model's response and prints it to the console.
 
+## What I Learned:
 
+I have learned how to implement the LLM using langchain, time management and also how to present or execute our idea into real.
+teamwork plays a huge role here,were my teammates are supported me to accompishment the work and learned many libraries and api's
+and also usage of some modules,I had a wonderful experience with my seniors and they helped me a lot to do so far.
 
